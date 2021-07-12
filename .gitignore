@@ -57,5 +57,8 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
+ios/Podfile.lock
 
 template/plugins/typescript/template/tsconfig.json
+*.lock
+yarn.lock
